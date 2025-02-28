@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5160543841915196328
+  m_GuidHigh: 3071415453272042901
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5556526156824322820
+      m_GuidHigh: 6536697952463298214
+    m_SerializedTextureGuid:
+      m_GuidLow: 9017473780648287085
+      m_GuidHigh: 9041307120412531528
+    m_Size: {x: 0.15, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Cube
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5283685820319430343
+      m_GuidHigh: 1816402970400810146
+    m_SerializedTextureGuid:
+      m_GuidLow: 11553107796009787234
+      m_GuidHigh: 10949366459966448219
+    m_Size: {x: 0.21040645, y: 0.25}
+    m_SpecifySize: 1
+    m_Name: Cube 2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4810982860484554459
+      m_GuidHigh: 17724997658731891639
+    m_SerializedTextureGuid:
+      m_GuidLow: 9265269906375096486
+      m_GuidHigh: 13665421907046292729
+    m_Size: {x: 0.1884, y: 0.24}
+    m_SpecifySize: 1
+    m_Name: Cube 3
+    m_Texture: {fileID: 0}
